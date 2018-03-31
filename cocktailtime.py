@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 
 import time
-from colorsys import hsv_to_rgb
-
 import motephat as mote
 import tweepy
 from tweepy import Stream, OAuthHandler
